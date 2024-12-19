@@ -88,6 +88,10 @@ Before you begin, ensure you have the following installed:
 - **ExtentReportManager**: Manages the creation and configuration of test execution reports.
 - **DataProviders**: Provides test data to the test methods.
 
+### Snapshot
+![Screenshot](img/ss.png)
+
+
 
 
 
